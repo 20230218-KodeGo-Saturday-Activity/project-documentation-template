@@ -1,6 +1,6 @@
 # project-documentation-template
 
-# --GroupV--: TWICE Page | Mini-Project 2 | Capstone
+# GroupV: TWICE Page | Mini-Project 2 | Capstone
 
 ## Project Goals / Services provided by application
 
